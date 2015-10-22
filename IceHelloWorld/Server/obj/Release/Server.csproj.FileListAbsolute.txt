@@ -1,0 +1,14 @@
+c:\users\yawen wang\documents\visual studio 2013\Projects\IceHelloWorld\Server\bin\Release\Server.exe.config
+c:\users\yawen wang\documents\visual studio 2013\Projects\IceHelloWorld\Server\bin\Release\Server.exe
+c:\users\yawen wang\documents\visual studio 2013\Projects\IceHelloWorld\Server\bin\Release\Server.pdb
+c:\users\yawen wang\documents\visual studio 2013\Projects\IceHelloWorld\Server\bin\Release\Ice.dll
+c:\users\yawen wang\documents\visual studio 2013\Projects\IceHelloWorld\Server\bin\Release\Ice.xml
+c:\users\yawen wang\documents\visual studio 2013\Projects\IceHelloWorld\Server\obj\Release\Server.exe
+c:\users\yawen wang\documents\visual studio 2013\Projects\IceHelloWorld\Server\obj\Release\Server.pdb
+D:\CornellCup2015\R2Bot\IceHelloWorld\Server\bin\Release\Server.exe.config
+D:\CornellCup2015\R2Bot\IceHelloWorld\Server\bin\Release\Server.exe
+D:\CornellCup2015\R2Bot\IceHelloWorld\Server\bin\Release\Server.pdb
+D:\CornellCup2015\R2Bot\IceHelloWorld\Server\bin\Release\Ice.dll
+D:\CornellCup2015\R2Bot\IceHelloWorld\Server\bin\Release\Ice.xml
+D:\CornellCup2015\R2Bot\IceHelloWorld\Server\obj\Release\Server.exe
+D:\CornellCup2015\R2Bot\IceHelloWorld\Server\obj\Release\Server.pdb

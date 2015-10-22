@@ -1,0 +1,13 @@
+C:\Users\Yawen Wang\Desktop\CornellCup2015\R2Bot\R2Bot\log_test\LogServer\bin\Debug\testServer.exe
+C:\Users\Yawen Wang\Desktop\CornellCup2015\R2Bot\R2Bot\log_test\LogServer\bin\Debug\testServer.pdb
+C:\Users\Yawen Wang\Desktop\CornellCup2015\R2Bot\R2Bot\log_test\LogServer\bin\Debug\Ice.dll
+C:\Users\Yawen Wang\Desktop\CornellCup2015\R2Bot\R2Bot\log_test\LogServer\bin\Debug\Ice.xml
+C:\Users\Yawen Wang\Desktop\CornellCup2015\R2Bot\R2Bot\log_test\LogServer\obj\x86\Debug\testServer.exe
+C:\Users\Yawen Wang\Desktop\CornellCup2015\R2Bot\R2Bot\log_test\LogServer\obj\x86\Debug\testServer.pdb
+D:\CornellCup2015\R2Bot\R2Bot\log_test\LogServer\obj\x86\Debug\testServer.exe
+D:\CornellCup2015\R2Bot\R2Bot\log_test\LogServer\obj\x86\Debug\testServer.pdb
+D:\CornellCup2015\R2Bot\R2Bot\log_test\LogServer\bin\Debug\testServer.exe
+D:\CornellCup2015\R2Bot\R2Bot\log_test\LogServer\bin\Debug\testServer.pdb
+D:\CornellCup2015\R2Bot\R2Bot\log_test\LogServer\bin\Debug\Ice.dll
+D:\CornellCup2015\R2Bot\R2Bot\log_test\LogServer\bin\Debug\Ice.xml
+D:\CornellCup2015\R2Bot\R2Bot\log_test\LogServer\obj\x86\Debug\LogServer.csprojResolveAssemblyReference.cache

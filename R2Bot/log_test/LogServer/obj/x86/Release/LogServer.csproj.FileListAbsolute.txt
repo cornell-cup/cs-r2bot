@@ -1,0 +1,6 @@
+C:\Users\Yawen Wang\Desktop\CornellCup2015\R2Bot\R2Bot\log_test\LogServer\bin\Release\testServer.exe
+C:\Users\Yawen Wang\Desktop\CornellCup2015\R2Bot\R2Bot\log_test\LogServer\bin\Release\testServer.pdb
+C:\Users\Yawen Wang\Desktop\CornellCup2015\R2Bot\R2Bot\log_test\LogServer\bin\Release\Ice.dll
+C:\Users\Yawen Wang\Desktop\CornellCup2015\R2Bot\R2Bot\log_test\LogServer\bin\Release\Ice.xml
+C:\Users\Yawen Wang\Desktop\CornellCup2015\R2Bot\R2Bot\log_test\LogServer\obj\x86\Release\testServer.exe
+C:\Users\Yawen Wang\Desktop\CornellCup2015\R2Bot\R2Bot\log_test\LogServer\obj\x86\Release\testServer.pdb

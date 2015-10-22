@@ -1,0 +1,15 @@
+c:\users\yawen wang\documents\visual studio 2013\Projects\IceHelloWorld\Client\bin\Release\Client.exe.config
+c:\users\yawen wang\documents\visual studio 2013\Projects\IceHelloWorld\Client\bin\Release\Client.exe
+c:\users\yawen wang\documents\visual studio 2013\Projects\IceHelloWorld\Client\bin\Release\Client.pdb
+c:\users\yawen wang\documents\visual studio 2013\Projects\IceHelloWorld\Client\bin\Release\Ice.dll
+c:\users\yawen wang\documents\visual studio 2013\Projects\IceHelloWorld\Client\bin\Release\Ice.xml
+c:\users\yawen wang\documents\visual studio 2013\Projects\IceHelloWorld\Client\obj\Release\Client.exe
+c:\users\yawen wang\documents\visual studio 2013\Projects\IceHelloWorld\Client\obj\Release\Client.pdb
+D:\CornellCup2015\R2Bot\IceHelloWorld\Client\bin\Release\Client.exe.config
+D:\CornellCup2015\R2Bot\IceHelloWorld\Client\obj\Release\Client.exe
+D:\CornellCup2015\R2Bot\IceHelloWorld\Client\obj\Release\Client.pdb
+D:\CornellCup2015\R2Bot\IceHelloWorld\Client\bin\Release\Client.exe
+D:\CornellCup2015\R2Bot\IceHelloWorld\Client\bin\Release\Client.pdb
+D:\CornellCup2015\R2Bot\IceHelloWorld\Client\bin\Release\Ice.dll
+D:\CornellCup2015\R2Bot\IceHelloWorld\Client\bin\Release\Ice.xml
+D:\CornellCup2015\R2Bot\IceHelloWorld\Client\obj\Release\Client.csprojResolveAssemblyReference.cache

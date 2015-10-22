@@ -1,0 +1,28 @@
+﻿Build started 12/6/2014 11:06:58 AM.
+     1>Project "D:\CornellCup2015\R2Bot\R2Bot\log_test\LogClient\LogClient.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I. /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Release\LogClient.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I. /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\LogClient.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Client.cpp LogClient.cpp logging.cpp
+         Client.cpp
+         LogClient.cpp
+     1>LogClient.cpp(25): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\time.inl(112) : see declaration of 'localtime'
+     1>LogClient.cpp(46): warning C4996: 'asctime': This function or variable may be unsafe. Consider using asctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\time.h(174) : see declaration of 'asctime'
+     1>LogClient.cpp(22): warning C4101: 'newtime' : unreferenced local variable
+         logging.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\CornellCup2015\R2Bot\R2Bot\log_test\LogClient\Release\LogClient.exe" /INCREMENTAL:NO /NOLOGO ice.lib iceutil.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\CornellCup2015\R2Bot\R2Bot\log_test\LogClient\Release\LogClient.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\CornellCup2015\R2Bot\R2Bot\log_test\LogClient\Release\LogClient.lib" /MACHINE:X86 /SAFESEH Release\Client.obj
+         Release\LogClient.obj
+         Release\logging.obj
+         Release\stdafx.obj
+         Generating code
+     1>d:\cornellcup2015\r2bot\r2bot\log_test\logclient\client.cpp(41): warning C4715: 'Client::createClient' : not all control paths return a value
+         Finished generating code
+         LogClient.vcxproj -> D:\CornellCup2015\R2Bot\R2Bot\log_test\LogClient\Release\LogClient.exe
+     1>Done Building Project "D:\CornellCup2015\R2Bot\R2Bot\log_test\LogClient\LogClient.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.24
